@@ -1,0 +1,12 @@
+
+fastapi[all]
+uvicorn
+python-dotenv
+passlib[bcrypt]
+python-jose[cryptography]
+requests
+google-auth-oauthlib
+google-auth
+python-multipart
+pymongo
+motor
